@@ -1,2 +1,2 @@
  hello_world
-#0 this is the begining
+ this is the begining
